@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/generate-excel-from-html-table.svg)](https://www.npmjs.com/package/generate-excel-from-html-table)
 [![License](https://img.shields.io/npm/l/generate-excel-from-html-table.svg)](https://github.com/rahuljaim/generate-excel-from-html-table/blob/main/LICENSE)
 
-This Node.js module allows you to generate Excel files from an HTML template. It's a lightweight and efficient solution for creating Excel files with customized content. This README provides a step-by-step guide on how to set up and use this module.
+This Excel Generator from HTML module allows you to generate Excel files from an HTML template. It's a lightweight and efficient solution for creating Excel files with customized content. This README provides a step-by-step guide on how to set up and use this module.
 
 ## Installation
 
