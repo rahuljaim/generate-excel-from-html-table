@@ -1,0 +1,40 @@
+{
+  "name": "generate-excel-from-html-table",
+  "version": "1.0.0",
+  "description": "The code will generate excel spreadsheet from react/angular/javascript table.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahuljaim/generate-excel-from-html-table.git"
+  },
+  "keywords": [
+    "html",
+    "to",
+    "excel",
+    "generate",
+    "excel",
+    "xls",
+    "from",
+    "html",
+    "xls",
+    "from",
+    "react",
+    "generate",
+    "excel",
+    "from",
+    "react"
+  ],
+  "author": "Rahul Jain <rahuljait@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahuljaim/generate-excel-from-html-table/issues"
+  },
+  "homepage": "https://github.com/rahuljaim/generate-excel-from-html-table#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
